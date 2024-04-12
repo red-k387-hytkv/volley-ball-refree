@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>さあ審判アプリ作るぞ</Text>
       <Text>さあ審判アプリ作るぞ</Text>
+      <Text>gitの動作確認</Text>
       <StatusBar style="auto" />
     </View>
   );
